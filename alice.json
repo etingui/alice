@@ -3,7 +3,7 @@
   "wake_word": "alice",
   "author": "custom",
   "website": "",
-  "model": "alice.tflite",
+  "model": "https://raw.githubusercontent.com/etingui/alice/main/alice.tflite",
   "trained_languages": ["pt"],
   "version": 2,
   "micro": {
