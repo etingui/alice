@@ -2,7 +2,7 @@
   "type": "micro",
   "wake_word": "alice",
   "author": "custom",
-  "model": "alice3.tflite",
+  "model": "aliceopus.tflite",
   "trained_languages": ["pt"],
   "version": 2,
   "micro": {
